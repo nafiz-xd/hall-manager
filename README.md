@@ -1,6 +1,6 @@
-# Hostel Manager 🏨
+# Hall Manager 🏨
 
-A free, minimal web app to manage a college hostel — built for **PTEC Boys Hall, Pabna Textile Engineering College**.
+A free, minimal web app to manage a college hall — built for **PTEC Boys Hall, Pabna Textile Engineering College**.
 
 ## ✨ Features
 - 📝 New student admission with admission + monthly fee
